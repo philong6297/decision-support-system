@@ -1,0 +1,6 @@
+include (longlp_message.cmake)
+include (longlp_desired_compile_options.cmake)
+include (longlp_desired_compile_features.cmake)
+include (longlp_download_conan_cmake_if_not_exist.cmake)
+include (longlp_make_exec.cmake)
+include (longlp_make_library.cmake)
